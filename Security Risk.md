@@ -10,11 +10,10 @@ This reinforces the reasoning behind the interview process. You must communicate
 Mobile devices allow you to access most data you would on your computer. This is becoming a massive problem for buisnesses, so much so, that now some are questioning thier BYOD policy (Bring Your Own Device). This makes sense as employees will often access sensitive information, regarding their company/buisness, on their phone. This leaves that information vulnerable because, lets be honest, most people don't update their passwords, and even more leave their email logged in. These many factors can make this one of the most damaging of the vulnerabilities listed here.   
 
 ## Cloud Applications
-
-
-## Unpatched or Unpatchable Devices
+When storing information on a cloud server you open your self up to threats, that could massively harm your companies privacy. Data encryption is essential when using a cloud based server. The most popular being AES 256-bit which is regarded as the "Crypto gold standard". With AES 256-bit the encryption keys are held exclusivesly, keeping it out of the hands of third parties, which in turn provides you with a higher level of security.
 
 ## Third-party Service Providers
+Maintaning a buisness nowadays comes with an immense workload. Because of this, many buisnesses outsource the maintenance of their Point-of-Sale (POS) systems to third party companies. The issue with this is that many of these companies aren't as diligent, as you are, with your information. These companies may be using the same password with multiple clients leaving yours, and other buisnesses vulnerable. The employees of these companies don't have as much to lose as you do, and with that their comes the risk of them potentially selling, and or compromising your information.
 
 ## Who are the risks?
 
