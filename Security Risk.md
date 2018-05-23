@@ -15,19 +15,12 @@ When storing information on a cloud server you open your self up to threats, tha
 ## Third-party Service Providers
 Maintaning a buisness nowadays comes with an immense workload. Because of this, many buisnesses outsource the maintenance of their Point-of-Sale (POS) systems to third party companies. The issue with this is that many of these companies aren't as diligent, as you are, with your information. These companies may be using the same password with multiple clients leaving yours, and other buisnesses vulnerable. The employees of these companies don't have as much to lose as you do, and with that their comes the risk of them potentially selling, and or compromising your information.
 
-## Who are the risks?
+## Potential Impact to IT Security if the Configuration of Firewall Policies and Third Party VPNs is Incorrect
 
+## How DMZ, Static IP and NAT in a Network can Improve Network Security
 
+## Risk Assessment Procedures
 
+## Data Protection Processes and Regulations Applicable to an Organisation
 
-## Organisational Security Procedures
-
-## potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
-
-## DMZ, static IP and NAT in a network can improve Network Security
-
-## risk assessment procedures
-
-## data protection processes and regulations as applicable to an organisation
-
-## main components of an organisational disaster recovery plan
+## Main Components of an Organisational Disaster Recovery Plan
