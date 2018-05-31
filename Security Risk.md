@@ -23,7 +23,18 @@ Maintaning a buisness nowadays comes with an immense workload. Because of this, 
 - Make employees aware of risk.
 
 ## How Implementing a DMZ, Static IP and NAT in a Network can Improve Network Security
+### DMZ
+
+### Static IP
+
+### NAT
+
+
+
+
 
 ## Incorrect Configuration of Firewall Policies and Third Party VPNs
 
-## 
+## Risk Assessment Procedures
+
+## Organisational Disaster Recovery Plan
