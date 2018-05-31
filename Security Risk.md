@@ -24,17 +24,21 @@ Maintaning a buisness nowadays comes with an immense workload. Because of this, 
 
 ## How Implementing a DMZ, Static IP and NAT in a Network can Improve Network Security
 ### DMZ
+A DMZ is the buffer between the internet, and your internal Network.  While your network may have a firewall it's still vulnerable to compromised software, such as a web server. An attacker could potentially gain access to your local network. They will take advantage of the ports that would be open within said software. A DMZ is created by setting up each portion of your network on different IP Network's 
 
 ### Static IP
+Static IP addresses are fixed unlike the dynamic IP. Having a static IP allows a user to retrieve information from the server using various devices. 
 
 ### NAT
+Network Address Translation resolves multiple IP addresses into one address. It was introduced to solve the limited space issue when using IPV4.
 
-
-
-
+ 
 
 ## Incorrect Configuration of Firewall Policies and Third Party VPNs
 
+
 ## Risk Assessment Procedures
 
+
 ## Organisational Disaster Recovery Plan
+
